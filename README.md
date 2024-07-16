@@ -18,7 +18,8 @@ I'm Alpay, a Test Automation Engineer from Turkey. My time on GitHub is mostly s
 * [Performance Testing Locust](https://github.com/alpayalin78/LocustTest): Tech stack that is used: --> Python Locust framework
 
 #### ✋ I draw such things in my freetime
-![image](https://github.com/user-attachments/assets/ea9462f5-e83f-443a-8ab5-0cd6efca451b)
+![image](https://github.com/user-attachments/assets/fe520d64-dc9b-4896-b5f2-1f0f8483b0ad)
+![image](https://github.com/user-attachments/assets/f58bd7e7-ba7d-40eb-9a68-0b03e34123fc)
 ![image](https://github.com/user-attachments/assets/f05843e6-5a85-41ee-858b-cac0e1623be4)
 ![image](https://github.com/user-attachments/assets/af8eaebf-630e-4483-88e6-520c1aa1795a)
 
