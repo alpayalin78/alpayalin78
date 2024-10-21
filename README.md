@@ -16,6 +16,7 @@ I'm Alpay, a Test Automation Engineer from Turkey. My time on GitHub is mostly s
 * [Rest API Testing Java BDD](): Tech stack that is used: --> Java, Restful API
 * [Dockerizing a Project and Running in a Pipeline via Jenkins](https://github.com/alpayalin78/selenium-alpay-docker): Tech stack that is used: --> Docker, Jenkins, Java, Selenium, Selenium Grid
 * [Performance Testing Locust](https://github.com/alpayalin78/LocustTest): Tech stack that is used: --> Python Locust framework
+* [API Automated Tests by POSTMAN](https://github.com/alpayalin78/postmanTrelloAPI) --> Postman, Javascript, Global/Environment/Collection Variables.
 
 #### ✋ I draw such things in my freetime
 ![image](https://github.com/user-attachments/assets/fe520d64-dc9b-4896-b5f2-1f0f8483b0ad)
